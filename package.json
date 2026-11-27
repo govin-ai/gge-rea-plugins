@@ -1,7 +1,7 @@
 {
   "name": "dsh-defensive-file-triage",
-  "version": "0.1.0",
-  "description": "DeepSeek Harness 的本地文件静态检查和证据记录技能",
+  "version": "0.2.0",
+  "description": "DeepSeek Harness 的静态逆向工程技能包",
   "files": ["cordis.patch.yml", "skills"],
   "engines": {
     "dsh": ">=0.2.2-rc.5 <0.3.0"
